@@ -15,11 +15,14 @@ L'obiettivo di questo intervento è quello di approfondire i metadati forniti e 
 
 ## Informazioni di supporto
 
+TODO
 
 
 ## Struttura del progetto
 
 I dataset sono disponibili sul sito sotto forma di un unico file .zip (todo - spacchettare i vari dataset). L'archivio è stato unzipppato sotto la cartella ./data/raw/indagine_trasparenza
+
+TODO
 
 
 ## Riferimenti dal sito di OpenCoesione
@@ -40,6 +43,7 @@ I [dataset](https://opencoesione.gov.it/it/opendata/#indagine-title) contengono 
 - [Metadati](https://opencoesione.gov.it/media/opendata/Metadati_Indagine_Trasparenza_en.xlsx)
 
 ## Licenza
+TODO
 This project is licensed under the MIT License - see the LICENSE.md file for details
 
 ## Authors
