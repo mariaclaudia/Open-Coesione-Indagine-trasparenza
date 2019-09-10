@@ -1,5 +1,8 @@
 [OC Image](https://opencoesione.gov.it/static/images/header-logo-it.svg)
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mariaclaudia/Open-Coesione-Indagine-trasparenza/master)
+
+
 # Indagine sulla trasparenza dei Fondi Strutturali in Europa
 
 ## Introduzione
@@ -41,8 +44,10 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 
 ## Authors
 
+Maria Claudia Bodino
 
 ## How to contribute
 
 Contributions are welcome. Feel free to open issues and submit a pull request at any time, but please read our handbook first.
+
 
